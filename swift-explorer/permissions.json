@@ -1,7 +1,7 @@
 {
  "maintainer": "asmw <asmw@asmw.org>"
  ,"description": "The openstack swift explorer"
- ,"executable": "/opt/swift-explorer.sh"
+ ,"executable": "/usr/bin/swift-explorer.sh"
  ,"gui": {}
  ,"allow-network-access": true
  ,"basic-common-permissions": true

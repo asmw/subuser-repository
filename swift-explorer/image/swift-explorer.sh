@@ -1,2 +1,2 @@
 #!/bin/bash
-java -jar /opt/SwiftExplorer-1.0.8-jar-with-dependencies.jar
+java -Dsun.java2d.xrender=false -jar /usr/lib/SwiftExplorer-1.0.8-jar-with-dependencies.jar
