@@ -1,8 +1,8 @@
 {
  "maintainer": "asmw <asmw@asmw.org>"
  ,"description": "The openstack swift explorer"
- ,"executable": "/usr/bin/java -jar /opt/SwiftExplorer-1.0.8-jar-with-dependencies.jar"
+ ,"executable": "/opt/swift-explorer.sh"
  ,"gui": {}
  ,"allow-network-access": true
- ,"basic-common-permissions" :true
+ ,"basic-common-permissions": true
 }
