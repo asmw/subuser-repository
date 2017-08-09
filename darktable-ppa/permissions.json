@@ -8,5 +8,5 @@
  "executable": "/usr/bin/darktable",
  "stateful-home": true,
  "access-working-directory": true,
- "gui": {}
+ "gui": {"border-color": "red,1"}
 }

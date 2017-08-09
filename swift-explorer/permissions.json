@@ -2,7 +2,7 @@
  "maintainer": "asmw <asmw@asmw.org>"
  ,"description": "The openstack swift explorer"
  ,"executable": "/usr/bin/swift-explorer.sh"
- ,"gui": {}
+ ,"gui": {"border-color": "auto,1"}
  ,"allow-network-access": true
  ,"basic-common-permissions": true
 }
