@@ -1,0 +1,6 @@
+FROM ubuntu:zesty
+RUN apt-get update && \
+    apt-get upgrade -y && \
+    apt-get install -y software-properties-common python-software-properties && \
+    add-apt-repository -y -u ppa:pmjdebruijn/darktable-release && \
+    apt-get install -y darktable

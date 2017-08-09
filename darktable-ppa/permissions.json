@@ -1,0 +1,12 @@
+{
+ "user-dirs": [
+  "Pictures"
+ ],
+ "basic-common-permissions": true,
+ "description": "A subuser app for the darktable ubuntu PPA",
+ "maintainer": "asmw <asmw@asmw.org>",
+ "executable": "/usr/bin/darktable",
+ "stateful-home": true,
+ "access-working-directory": true,
+ "gui": {}
+}
